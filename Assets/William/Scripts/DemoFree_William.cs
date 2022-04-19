@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class DemoFree : MonoBehaviour
+public class DemoFree_William : MonoBehaviour
 {
 
     private readonly string[] m_animations = { "Pickup", "Wave" };

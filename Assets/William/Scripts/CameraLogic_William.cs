@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-public class FreeCameraLogic : MonoBehaviour
+public class CameraLogic_William : MonoBehaviour
 {
 
     private Transform m_currentTarget = null;

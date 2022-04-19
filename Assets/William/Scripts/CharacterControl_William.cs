@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-public class SimpleSampleCharacterControl : MonoBehaviour
+public class CharacterControl_William : MonoBehaviour
 {
     private enum ControlMode
     {
