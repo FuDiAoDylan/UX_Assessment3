@@ -1466,8 +1466,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 1400265634}
   speed: 10
-  hight: 2
-  foward: 3
+  hight: 3
+  foward: 4
 --- !u!81 &1112844241
 AudioListener:
   m_ObjectHideFlags: 0
