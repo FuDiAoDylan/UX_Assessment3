@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/William/Scenes/MainScene.unity
     guid: 9f4bc6d9ed9fdb84aa7ebb76548628a1
+  - enabled: 1
+    path: Assets/Tarin/Scenes/SampleScene.unity
+    guid: cb760f9ef60ded048ac0b2cef57b725f
   m_configObjects: {}
