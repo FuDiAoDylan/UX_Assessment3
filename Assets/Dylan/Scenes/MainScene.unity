@@ -1467,7 +1467,7 @@ MonoBehaviour:
   player: {fileID: 1400265634}
   speed: 10
   hight: 3
-  foward: 4
+  foward: 3
 --- !u!81 &1112844241
 AudioListener:
   m_ObjectHideFlags: 0
